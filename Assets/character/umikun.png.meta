@@ -1,0 +1,839 @@
+fileFormatVersion: 2
+guid: 5214b9091b4fc014f977205c8d424845
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3546268633858816469
+    second: umikun_0
+  - first:
+      213: -4637553395361039304
+    second: umikun_1
+  - first:
+      213: -5128111595364987135
+    second: umikun_2
+  - first:
+      213: -6649834263523405279
+    second: umikun_3
+  - first:
+      213: 7372092542718337036
+    second: umikun_4
+  - first:
+      213: 7412732489164176434
+    second: umikun_5
+  - first:
+      213: 4779086354792817575
+    second: umikun_6
+  - first:
+      213: 9135993740810034532
+    second: umikun_7
+  - first:
+      213: -1708390884016489123
+    second: umikun_8
+  - first:
+      213: 5979484404275610916
+    second: umikun_9
+  - first:
+      213: -5305501469852162737
+    second: umikun_10
+  - first:
+      213: 7557408167354634325
+    second: umikun_11
+  - first:
+      213: -2090112437337857807
+    second: umikun_12
+  - first:
+      213: -3489178064879751977
+    second: umikun_13
+  - first:
+      213: -2467561874514283615
+    second: umikun_14
+  - first:
+      213: -386514906348696659
+    second: umikun_15
+  - first:
+      213: -7577449671200968138
+    second: umikun_16
+  - first:
+      213: -6581232261772934992
+    second: umikun_17
+  - first:
+      213: -1088032869258868522
+    second: umikun_18
+  - first:
+      213: 3510064288295088484
+    second: umikun_19
+  - first:
+      213: -813873704214029636
+    second: umikun_20
+  - first:
+      213: 9051292885134721971
+    second: umikun_21
+  - first:
+      213: -5707634681566398500
+    second: umikun_22
+  - first:
+      213: 2286154908948757241
+    second: umikun_23
+  - first:
+      213: 364644524071875228
+    second: umikun_24
+  - first:
+      213: 9090948946674028306
+    second: umikun_25
+  - first:
+      213: 8228661452491835861
+    second: umikun_26
+  - first:
+      213: -2206716693480661753
+    second: umikun_27
+  - first:
+      213: -2999059517257841149
+    second: umikun_28
+  - first:
+      213: -3441733442316027263
+    second: umikun_29
+  - first:
+      213: -700676574856159227
+    second: umikun_30
+  - first:
+      213: 8196212150206489912
+    second: umikun_31
+  - first:
+      213: 7222051212361368329
+    second: umikun_32
+  - first:
+      213: -2291489730737848540
+    second: umikun_33
+  - first:
+      213: 7956340153818789583
+    second: umikun_34
+  - first:
+      213: 3648552164870274769
+    second: umikun_35
+  - first:
+      213: 3854303781178022648
+    second: umikun_36
+  - first:
+      213: -2225689043010082356
+    second: umikun_37
+  - first:
+      213: 3910370562361244097
+    second: umikun_38
+  - first:
+      213: -775091914945792905
+    second: umikun_39
+  - first:
+      213: -5592913757385691539
+    second: umikun_40
+  - first:
+      213: 7688133824493485656
+    second: umikun_41
+  - first:
+      213: 8584073662694302333
+    second: umikun_42
+  - first:
+      213: 5003963467683653843
+    second: umikun_43
+  - first:
+      213: -8738383596578302037
+    second: umikun_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: umikun_0
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 772
+        width: 80
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b264cb8677f19cec0800000000000000
+      internalID: -3546268633858816469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: umikun_1
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 765
+        width: 78
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c399af1c914afb0800000000000000
+      internalID: -4637553395361039304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: umikun_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 281
+        width: 81
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f45b58ca945d8b0800000000000000
+      internalID: -5128111595364987135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: umikun_3
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 516
+        width: 77
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122577b38fa07b3a0800000000000000
+      internalID: -6649834263523405279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: umikun_4
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 157
+        width: 81
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00680ccb1fee4660800000000000000
+      internalID: 7372092542718337036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: umikun_5
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 31
+        width: 78
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23cb0aface05fd660800000000000000
+      internalID: 7412732489164176434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: umikun_6
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 765
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3a75018b9b25240800000000000000
+      internalID: 4779086354792817575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: umikun_7
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 640
+        width: 79
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d9c2717e199ce70800000000000000
+      internalID: 9135993740810034532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: umikun_8
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 516
+        width: 78
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d7eacda839a48e0800000000000000
+      internalID: -1708390884016489123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: umikun_9
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 277
+        width: 79
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42506d092656bf250800000000000000
+      internalID: 5979484404275610916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: umikun_10
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 767
+        width: 78
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45262ed5821f56b0800000000000000
+      internalID: -5305501469852162737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: umikun_11
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 152
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5501fc5ffae41e860800000000000000
+      internalID: 7557408167354634325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: umikun_12
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 28
+        width: 76
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0e9d7efcd6ef2e0800000000000000
+      internalID: -2090112437337857807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: umikun_13
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 642
+        width: 77
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dce1c45903f39fc0800000000000000
+      internalID: -3489178064879751977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: umikun_14
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 642
+        width: 79
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a377408c8571cdd0800000000000000
+      internalID: -2467561874514283615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: umikun_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 155
+        width: 79
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab41b29db2d2aaf0800000000000000
+      internalID: -386514906348696659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: umikun_16
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 276
+        width: 81
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6327aaccbad77d690800000000000000
+      internalID: -7577449671200968138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: umikun_17
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 516
+        width: 78
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b00fa47024caa4a0800000000000000
+      internalID: -6581232261772934992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: umikun_18
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 275
+        width: 79
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d840ebbed786e0f0800000000000000
+      internalID: -1088032869258868522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: umikun_19
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 28
+        width: 80
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461fc928fd046b030800000000000000
+      internalID: 3510064288295088484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: umikun_20
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 155
+        width: 79
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba9a489d2a84b4f0800000000000000
+      internalID: -813873704214029636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: umikun_21
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 28
+        width: 78
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3c9785ce6ac9d70800000000000000
+      internalID: 9051292885134721971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: umikun_23
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 643
+        width: 76
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9faf761f6cd0abf10800000000000000
+      internalID: 2286154908948757241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: umikun_27
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 517
+        width: 81
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d1925ebda2061e0800000000000000
+      internalID: -2206716693480661753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 69bf0a5b35bd7b34f82c40895bf8bc5e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      umikun_0: -3546268633858816469
+      umikun_1: -4637553395361039304
+      umikun_10: -5305501469852162737
+      umikun_11: 7557408167354634325
+      umikun_12: -2090112437337857807
+      umikun_13: -3489178064879751977
+      umikun_14: -2467561874514283615
+      umikun_15: -386514906348696659
+      umikun_16: -7577449671200968138
+      umikun_17: -6581232261772934992
+      umikun_18: -1088032869258868522
+      umikun_19: 3510064288295088484
+      umikun_2: -5128111595364987135
+      umikun_20: -813873704214029636
+      umikun_21: 9051292885134721971
+      umikun_22: -5707634681566398500
+      umikun_23: 2286154908948757241
+      umikun_24: 364644524071875228
+      umikun_25: 9090948946674028306
+      umikun_26: 8228661452491835861
+      umikun_27: -2206716693480661753
+      umikun_28: -2999059517257841149
+      umikun_29: -3441733442316027263
+      umikun_3: -6649834263523405279
+      umikun_30: -700676574856159227
+      umikun_31: 8196212150206489912
+      umikun_32: 7222051212361368329
+      umikun_33: -2291489730737848540
+      umikun_34: 7956340153818789583
+      umikun_35: 3648552164870274769
+      umikun_36: 3854303781178022648
+      umikun_37: -2225689043010082356
+      umikun_38: 3910370562361244097
+      umikun_39: -775091914945792905
+      umikun_4: 7372092542718337036
+      umikun_40: -5592913757385691539
+      umikun_41: 7688133824493485656
+      umikun_42: 8584073662694302333
+      umikun_43: 5003963467683653843
+      umikun_44: -8738383596578302037
+      umikun_45: 1361924251
+      umikun_5: 7412732489164176434
+      umikun_6: 4779086354792817575
+      umikun_7: 9135993740810034532
+      umikun_8: -1708390884016489123
+      umikun_9: 5979484404275610916
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
